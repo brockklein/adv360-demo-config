@@ -43,7 +43,7 @@
             bindings = <
                 ___       ___       ___         ___         ___         ___     ___            ___       ___     ___       ___       ___        ___  ___
                 &kp TAB   ___       ___         &kp TAB     ___         ___     ___            ___       ___     ___       &kp UP    ___        ___  ___
-                &kp ESC   &sk LGUI  &sk LALT    &sk LSHIFT  &sk LCTRL   ___     ___            ___       ___     &kp LEFT  &kp DOWN  &kp RIGHT  ___  ___
+                &kp ESC   &sk LGUI  &sk LALT    &sk LCTRL   &sk LSHIFT  ___     ___            ___       ___     &kp LEFT  &kp DOWN  &kp RIGHT  ___  ___
                 ___       ___       ___         ___         ___         ___                              ___     ___       ___       ___        ___  ___
                 ___       ___       ___         ___         ___                                                  ___       ___       ___        ___  ___
                                                                   ___       ___            ___       ___
